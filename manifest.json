@@ -1,0 +1,612 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Ohrada",
+  "author": "Ivan Binar",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "binar-ohrada-7bb151e",
+  "revision": "7bb151e",
+  "readingOrder": [
+    "promo.html",
+    "ohrada_005.html",
+    "ohrada_006.html",
+    "ohrada_007.html",
+    "ohrada_008.html",
+    "ohrada_009.html",
+    "ohrada_010.html",
+    "ohrada_011.html",
+    "ohrada_012.html",
+    "ohrada_013.html",
+    "ohrada_014.html",
+    "ohrada_015.html",
+    "ohrada_016.html",
+    "ohrada_017.html",
+    "ohrada_018.html",
+    "ohrada_019.html",
+    "ohrada_020.html",
+    "ohrada_021.html",
+    "ohrada_022.html",
+    "ohrada_023.html",
+    "ohrada_024.html",
+    "ohrada_025.html",
+    "ohrada_026.html",
+    "ohrada_027.html",
+    "ohrada_028.html",
+    "ohrada_029.html",
+    "ohrada_030.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Tue Aug 30 2022 09:07:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1661850445552
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "ohrada_005.html",
+      "toc": []
+    },
+    {
+      "title": "Ohrada",
+      "file": "ohrada_005.html",
+      "words": 3,
+      "chars": 21,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "ohrada_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ohrada",
+      "file": "ohrada_006.html",
+      "words": 572,
+      "chars": 3525,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 2,
+      "prev": "ohrada_005.html",
+      "next": "ohrada_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1",
+      "file": "ohrada_007.html",
+      "words": 502,
+      "chars": 2895,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 3,
+      "prev": "ohrada_006.html",
+      "next": "ohrada_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2",
+      "file": "ohrada_008.html",
+      "words": 1158,
+      "chars": 7037,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 4,
+      "prev": "ohrada_007.html",
+      "next": "ohrada_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3",
+      "file": "ohrada_009.html",
+      "words": 2421,
+      "chars": 14673,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 5,
+      "prev": "ohrada_008.html",
+      "next": "ohrada_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4",
+      "file": "ohrada_010.html",
+      "words": 2600,
+      "chars": 15739,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 6,
+      "prev": "ohrada_009.html",
+      "next": "ohrada_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5",
+      "file": "ohrada_011.html",
+      "words": 2325,
+      "chars": 13946,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 7,
+      "prev": "ohrada_010.html",
+      "next": "ohrada_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6",
+      "file": "ohrada_012.html",
+      "words": 1212,
+      "chars": 7357,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 8,
+      "prev": "ohrada_011.html",
+      "next": "ohrada_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7",
+      "file": "ohrada_013.html",
+      "words": 1862,
+      "chars": 11596,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 9,
+      "prev": "ohrada_012.html",
+      "next": "ohrada_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8",
+      "file": "ohrada_014.html",
+      "words": 2508,
+      "chars": 15352,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 10,
+      "prev": "ohrada_013.html",
+      "next": "ohrada_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "8",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "9",
+      "file": "ohrada_015.html",
+      "words": 2282,
+      "chars": 14142,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 11,
+      "prev": "ohrada_014.html",
+      "next": "ohrada_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "9",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "10",
+      "file": "ohrada_016.html",
+      "words": 2140,
+      "chars": 13303,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 12,
+      "prev": "ohrada_015.html",
+      "next": "ohrada_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "10",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "11",
+      "file": "ohrada_017.html",
+      "words": 2438,
+      "chars": 15500,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 13,
+      "prev": "ohrada_016.html",
+      "next": "ohrada_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "11",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "12",
+      "file": "ohrada_018.html",
+      "words": 1205,
+      "chars": 7689,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 14,
+      "prev": "ohrada_017.html",
+      "next": "ohrada_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "12",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "13",
+      "file": "ohrada_019.html",
+      "words": 1642,
+      "chars": 10450,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 15,
+      "prev": "ohrada_018.html",
+      "next": "ohrada_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "13",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "14",
+      "file": "ohrada_020.html",
+      "words": 2185,
+      "chars": 13511,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 16,
+      "prev": "ohrada_019.html",
+      "next": "ohrada_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "14",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "15",
+      "file": "ohrada_021.html",
+      "words": 2472,
+      "chars": 15339,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 17,
+      "prev": "ohrada_020.html",
+      "next": "ohrada_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "15",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "16",
+      "file": "ohrada_022.html",
+      "words": 2247,
+      "chars": 14202,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 18,
+      "prev": "ohrada_021.html",
+      "next": "ohrada_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "16",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "17",
+      "file": "ohrada_023.html",
+      "words": 807,
+      "chars": 5067,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 19,
+      "prev": "ohrada_022.html",
+      "next": "ohrada_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "17",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "18",
+      "file": "ohrada_024.html",
+      "words": 2327,
+      "chars": 14241,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 20,
+      "prev": "ohrada_023.html",
+      "next": "ohrada_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "18",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "19",
+      "file": "ohrada_025.html",
+      "words": 2113,
+      "chars": 12922,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 21,
+      "prev": "ohrada_024.html",
+      "next": "ohrada_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "19",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "20",
+      "file": "ohrada_026.html",
+      "words": 2187,
+      "chars": 13873,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 22,
+      "prev": "ohrada_025.html",
+      "next": "ohrada_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "20",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "21",
+      "file": "ohrada_027.html",
+      "words": 2824,
+      "chars": 17487,
+      "ideas": 71,
+      "role": "chapter",
+      "order": 23,
+      "prev": "ohrada_026.html",
+      "next": "ohrada_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "21",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "22",
+      "file": "ohrada_028.html",
+      "words": 1730,
+      "chars": 10466,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 24,
+      "prev": "ohrada_027.html",
+      "next": "ohrada_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "22",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "23",
+      "file": "ohrada_029.html",
+      "words": 2624,
+      "chars": 16057,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 25,
+      "prev": "ohrada_028.html",
+      "next": "ohrada_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "23",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "24",
+      "file": "ohrada_030.html",
+      "words": 1222,
+      "chars": 7791,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 26,
+      "prev": "ohrada_029.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "24",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 132,
+      "chars": 861,
+      "ideas": 16,
+      "role": "about",
+      "order": null,
+      "prev": "ohrada_030.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 47744,
+      "chars": 295061,
+      "ideas": 1010
+    },
+    "chapters": {
+      "words": 47608,
+      "chars": 294181,
+      "ideas": 991
+    }
+  }
+}
