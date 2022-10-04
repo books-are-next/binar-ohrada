@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "binar-ohrada-83ddf71",
-  "revision": "83ddf71",
+  "identifier": "binar-ohrada-85eddb1",
+  "revision": "85eddb1",
   "readingOrder": [
     "promo.html",
     "ohrada_005.html",
@@ -40,8 +40,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:47:53 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639273370
+    "date": "Tue Oct 04 2022 16:35:01 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901301141
   },
   "documents": [
     {
@@ -579,9 +579,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 132,
+      "words": 130,
       "chars": 861,
-      "ideas": 16,
+      "ideas": 14,
       "role": "about",
       "order": null,
       "prev": "ohrada_030.html",
@@ -599,9 +599,9 @@
   ],
   "totals": {
     "all": {
-      "words": 47744,
+      "words": 47742,
       "chars": 295061,
-      "ideas": 1010
+      "ideas": 1008
     },
     "chapters": {
       "words": 47608,
