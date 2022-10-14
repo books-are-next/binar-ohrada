@@ -10,9 +10,10 @@ meta:
   author: Ivan Binar
   publisher: Městská knihovna v Praze
   modified: '2022-02-09T00:00:00.000Z'
-  isbn: 978-80-274-2175-6
+  isbn: 978-80-274-2809-0
   contentType: prose
   publisherShort: mkp
+  edition: beletrie
 readingOrder:
   - promo.html
   - ohrada_005.html
