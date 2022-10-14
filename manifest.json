@@ -5,10 +5,11 @@
   "title": "Ohrada",
   "author": "Ivan Binar",
   "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "binar-ohrada-900b3ee",
-  "revision": "900b3ee",
+  "identifier": "binar-ohrada-d3e795d",
+  "revision": "d3e795d",
   "readingOrder": [
     "promo.html",
     "ohrada_005.html",
@@ -40,8 +41,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:42:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665416523858
+    "date": "Fri Oct 14 2022 18:48:07 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665773287172
   },
   "documents": [
     {
@@ -599,9 +600,9 @@
   ],
   "totals": {
     "all": {
-      "words": 47742,
-      "chars": 295062,
-      "ideas": 1008
+      "words": 47743,
+      "chars": 295070,
+      "ideas": 1009
     },
     "chapters": {
       "words": 47608,
