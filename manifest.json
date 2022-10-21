@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "binar-ohrada-9a1196d",
-  "revision": "9a1196d",
+  "identifier": "binar-ohrada-c4b7c91",
+  "revision": "c4b7c91",
   "readingOrder": [
     "promo.html",
     "ohrada_005.html",
@@ -41,8 +41,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 21 2022 10:43:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1666349004351
+    "date": "Fri Oct 21 2022 11:19:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666351182437
   },
   "documents": [
     {
